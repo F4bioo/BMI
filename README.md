@@ -39,6 +39,7 @@ Como plus para esse projeto, foi adicionada uma nova feature para calcular o Per
 ### Tela sugerida
 
 Suggested screen
+
 <img src="suggested.png" width="30%"></img>
 
 
@@ -46,6 +47,7 @@ Suggested screen
 ### Minha Implementação
 
 My implementation
+
 <img src="screen_capture1.png" width="30%"></img>
 <img src="screen_capture2.png" width="30%"></img>
 <img src="screen_capture3.png" width="30%"></img>
