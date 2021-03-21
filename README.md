@@ -53,7 +53,7 @@ My implementation
 <img src="screen_capture3.png" width="30%"></img>
 <img src="screen_capture4.png" width="30%"></img>
 
-# <a id="anchor01"></a>Desafio 01 
+# <a id="anchor01"></a>Fórmula 
 
 ### [voltar ao topo](#anchorTop)
 
