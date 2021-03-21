@@ -7,7 +7,7 @@
 
 Este é um projeto referente ao exercício proposto no **Bootcamp everis Kotlin Developer** onde fomos convidados a recriar a calculadora IMC ***(BMI - Body Mass Index)*** usada em uma das aulas.
 
-Como plus para esse projeto, foi adicionada uma nova feature para calcular o Percentual de Gordura baseada no resultado do IMC - ***(BFP - Body Fat Percentage based on BMI)*** incluindo a arquitetura **MVVM**.
+Como plus para esse projeto, foi adicionado um novo feature para calcular o Percentual de Gordura baseada no resultado do IMC - ***(BFP - Body Fat Percentage based on BMI)*** incluindo a arquitetura **MVVM**.
 
 
 
