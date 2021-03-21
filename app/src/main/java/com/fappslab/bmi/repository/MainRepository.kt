@@ -52,17 +52,25 @@ class MainRepository {
         return if (bfp < 0) "0" else "%.2f".format(bfp)
     }
 
+    // >=  0.00 && <= 15.99
+    // >= 16.00 && <= 16.99
+    // >= 17.00 && <= 17.49
+    // >= 18.50 && <= 24.99
+    // >= 25.00 && <= 29.99
+    // >= 30.00 && <= 34.99
+    // >= 35.00 && <= 39.99
+    // >= 40.00
     // Return a @StringRes Int
     private fun bmiTable(bmi: Float): Int {
         return when {
-            bmi < 16.0 -> R.string.very_severely_underweight                       // >=  0.00 && <= 15.99
-            bmi >= 16.0 && bmi < 17.0 -> R.string.severely_underweight             // >= 16.00 && <= 16.99
-            bmi >= 17.0 && bmi < 18.5 -> R.string.underweight                      // >= 17.00 && <= 17.49
-            bmi >= 18.5 && bmi < 25.0 -> R.string.normal           // >= 18.50 && <= 24.99
-            bmi >= 25.0 && bmi < 30.0 -> R.string.overweight                       // >= 25.00 && <= 29.99
-            bmi >= 30.0 && bmi < 35.0 -> R.string.obese_class_i // >= 30.00 && <= 34.99
-            bmi >= 35.0 && bmi < 40.0 -> R.string.obese_class_ii  // >= 35.00 && <= 39.99
-            else -> R.string.obese_class_iii                 // >= 40.00
+            bmi < 16.0 -> R.string.very_severely_underweight
+            bmi >= 16.0 && bmi < 17.0 -> R.string.severely_underweight
+            bmi >= 17.0 && bmi < 18.5 -> R.string.underweight
+            bmi >= 18.5 && bmi < 25.0 -> R.string.normal
+            bmi >= 25.0 && bmi < 30.0 -> R.string.overweight
+            bmi >= 30.0 && bmi < 35.0 -> R.string.obese_class_i
+            bmi >= 35.0 && bmi < 40.0 -> R.string.obese_class_ii
+            else -> R.string.obese_class_iii
         }
     }
 
