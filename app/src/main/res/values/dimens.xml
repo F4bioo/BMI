@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_rounded_size">28dp</dimen>
+
+    <item name="height_value" format="float" type="dimen">182</item>
+    <item name="height_value_from" format="float" type="dimen">0</item>
+    <item name="height_value_to" format="float" type="dimen">300</item>
+
+    <item name="weight_value" format="float" type="dimen">82</item>
+    <item name="weight_value_from" format="float" type="dimen">0</item>
+    <item name="weight_value_to" format="float" type="dimen">600</item>
+
+    <item name="age_value" format="float" type="dimen">38</item>
+    <item name="age_value_from" format="float" type="dimen">20</item>
+    <item name="age_value_to" format="float" type="dimen">120</item>
+
+</resources>

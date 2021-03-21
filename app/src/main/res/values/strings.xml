@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">BMI</string>
+
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+    <string name="text_height">Height</string>
+    <string name="text_weight">Weight</string>
+    <string name="text_age">Age</string>
+    <string name="text_calculate">Calculate your BMI</string>
+    <string name="text_cm">cm</string>
+    <string name="text_kg">kg</string>
+    <string name="text_percent">%</string>
+    <string name="text_title_result">Your Result</string>
+    <string name="text_title_bmi">BMI</string>
+    <string name="text_title_bfp">BFP</string>
+    <string name="text_bfp_description">Body fat (%) based on BMI</string>
+    <string name="text_light_mode">Light mode</string>
+    <string name="text_night_mode">Night mode</string>
+    <string name="text_height_value">182</string>
+    <string name="text_weight_value">82</string>
+    <string name="text_age_value">38</string>
+
+    <string name="very_severely_underweight">Very severely underweight</string>
+    <string name="severely_underweight">Severely underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal (health weight)</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Obese Class I (Moderately obese)</string>
+    <string name="obese_class_ii">Obese Class II (Severely obese)</string>
+    <string name="obese_class_iii">Obese Class III (Very severely obese)</string>
+
 </resources>

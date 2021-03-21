@@ -16,6 +16,8 @@ buildscript {
 
 allprojects {
     repositories {
+        // Gauge lib http://www.sccomponents.com/
+        flatDir { dirs 'libs' }
         google()
         jcenter()
     }
