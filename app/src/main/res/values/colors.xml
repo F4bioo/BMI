@@ -4,8 +4,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="green">#6CB62B</color>
 
-    <color name="theme">#7B1FA2</color>
+    <color name="theme">#1F889C</color>
     <color name="icon">#7A7A7A</color>
     <color name="card_ripple">#2DD5D5D5</color>
 
