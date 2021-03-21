@@ -53,7 +53,7 @@ My implementation
 <img src="screen_capture3.png" width="30%"></img>
 <img src="screen_capture4.png" width="30%"></img>
 
-# <a id="anchor01"></a>Fórmula 
+# <a id="anchor01"></a>Fórmulas 
 
 ### [voltar ao topo](#anchorTop)
 
