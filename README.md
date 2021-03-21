@@ -74,5 +74,5 @@ Fórmula para adultos
 
 ```sh
 gender = if female 0; if male 1;
-BFP = ((1.2 * imc) + (0.23 * age) - (10.8 * gender) - 5.4)
+BFP = ((1.2 * bmi) + (0.23 * age) - (10.8 * gender) - 5.4)
 ```
