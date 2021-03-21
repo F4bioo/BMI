@@ -27,7 +27,7 @@ Como plus para esse projeto, foi adicionada uma nova feature para calcular o Per
 
 | EXERCÍCIO | NÍVEL | SOLUÇÃO |
 | :--: | :--: | :--: |
-| [Fórmulas](#anchor01) | Básico | [Lógica](app/src/main/java/fbo/costa/bootcampeveris/repository/RepositoryChallenge1.kt) |
+| [Fórmulas](#anchor01) | Básico | [Lógica](app/src/main/java/fbo/costa/bootcampeveris/repository/MainRepository.kt) |
 
 
 
